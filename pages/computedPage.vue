@@ -1,4 +1,4 @@
-<script setup>
+<script setup lang="ts">
 // ! Нужен туту импорт?
 // import { reactive, computed, ref } from 'vue'
 

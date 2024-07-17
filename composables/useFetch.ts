@@ -1,6 +1,6 @@
 import { ref, watchEffect, toValue } from 'vue'
 
-export function useFetch(url: string | URL | Request) {
+export function useTestFetch(url: string | URL | Request) {
   const data = ref(null)
   const error = ref(null)
 
